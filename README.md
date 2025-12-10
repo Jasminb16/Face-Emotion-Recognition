@@ -325,4 +325,3 @@ python predict_realtime.py
 pip install tensorflow opencv-python numpy scikit-learn matplotlib
 ```
 
-That's it! Simple and ready to use. 🎭
