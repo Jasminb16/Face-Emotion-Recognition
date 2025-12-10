@@ -13,6 +13,10 @@ This project implements a facial emotion recognition system capable of detecting
 - **Sad** 😢
 - **Surprise** 😮
 
+## Demo
+
+![Emotion Recognition Demo](utils/demo.gif)
+
 ## 🏗️ System Architecture
 
 ### Dataset
